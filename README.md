@@ -42,3 +42,11 @@ Abra o navegador e vá para http://localhost:3333.
 - Node.js: Ambiente de execução JavaScript do lado do servidor.
 - Express: Framework para construção de aplicativos web com Node.js.
 - Socket.IO: Biblioteca para comunicação em tempo real entre clientes e servidor.
+
+
+
+https://github.com/RafaelCLopes/projeto-chat/assets/36003878/44f8c7dd-3edb-495e-8f0b-2a339c29c387
+
+
+
+
